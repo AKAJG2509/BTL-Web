@@ -1,4 +1,12 @@
-# Bill Pro — CSE122
+# Bill Pro — BÀI TẬP LỚN CSE122
+
+> **Học phần:** CSE122 — Thiết kế & Lập trình Web  
+> **Sinh viên:** AKAJG2509  
+> **MSSV:** 2551170901  
+> **Trang web chạy trực tiếp (Live Demo):** [https://akajg2509.github.io/BTL-Web/](https://akajg2509.github.io/BTL-Web/)  
+> **Kho mã nguồn GitHub:** [https://github.com/AKAJG2509/BTL-Web](https://github.com/AKAJG2509/BTL-Web)  
+
+---
 
 Website Frontend mẫu quản lý hóa đơn và công nợ cho doanh nghiệp nhỏ. Dự án được tổ chức để một sinh viên có thể phát triển lần lượt từng luồng nghiệp vụ.
 
